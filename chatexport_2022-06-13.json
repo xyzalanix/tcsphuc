@@ -1,0 +1,1539 @@
+{
+ "name": "𝒫𝒶𝒾𝓈𝒶𝒿𝑒𝓈 ᝯׁᨵׁׅᥣׁׅ֪ꫀׁׅܻᝯׁtׁׅꪱׁׅ᥎꫶ׁׅᨵׁׅ꯱ׁׅ֒",
+ "type": "private_group",
+ "id": 723118229,
+ "messages": [
+  {
+   "id": 69669,
+   "type": "service",
+   "date": "2022-05-19T11:28:40",
+   "actor": "Alan Ixba",
+   "actor_id": "user1211595718",
+   "action": "create_group",
+   "title": "Registros y Paisajes Colectivos",
+   "members": [
+    "Alan Ixba",
+    "Andrea Viteri",
+    "flac0",
+    "Pablo Vera"
+   ],
+   "text": ""
+  },
+  {
+   "id": 69670,
+   "type": "service",
+   "date": "2022-05-19T11:35:56",
+   "actor": "Alan Ixba",
+   "actor_id": "user1211595718",
+   "action": "edit_group_title",
+   "title": "᥅ꫀᧁ꠸ᦓꪻ᥅ꪮᦓ ⓨ 𝒫𝒶𝒾𝓈𝒶𝒿𝑒𝓈 ᝯׁᨵׁׅᥣׁׅ֪ꫀׁׅܻᝯׁtׁׅꪱׁׅ᥎꫶ׁׅᨵׁׅ꯱ׁׅ֒",
+   "text": ""
+  },
+  {
+   "id": 69671,
+   "type": "service",
+   "date": "2022-05-19T11:36:25",
+   "actor": "Alan Ixba",
+   "actor_id": "user1211595718",
+   "action": "invite_members",
+   "members": [
+    "Jorge Lorenzo"
+   ],
+   "text": ""
+  },
+  {
+   "id": 69672,
+   "type": "service",
+   "date": "2022-05-19T11:36:30",
+   "actor": "Alan Ixba",
+   "actor_id": "user1211595718",
+   "action": "invite_members",
+   "members": [
+    "Samuel Cepeda"
+   ],
+   "text": ""
+  },
+  {
+   "id": 69673,
+   "type": "service",
+   "date": "2022-05-19T11:43:08",
+   "actor": "Alan Ixba",
+   "actor_id": "user1211595718",
+   "action": "edit_group_title",
+   "title": "𝒫𝒶𝒾𝓈𝒶𝒿𝑒𝓈 ᝯׁᨵׁׅᥣׁׅ֪ꫀׁׅܻᝯׁtׁׅꪱׁׅ᥎꫶ׁׅᨵׁׅ꯱ׁׅ֒",
+   "text": ""
+  },
+  {
+   "id": 69689,
+   "type": "message",
+   "date": "2022-05-19T23:35:04",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 750,
+   "height": 732,
+   "text": ""
+  },
+  {
+   "id": 69858,
+   "type": "message",
+   "date": "2022-05-21T08:23:02",
+   "from": "Samuel Cepeda",
+   "from_id": "user1548005154",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://obsidian.md/"
+    }
+   ]
+  },
+  {
+   "id": 70314,
+   "type": "message",
+   "date": "2022-05-24T11:15:36",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70315,
+   "type": "message",
+   "date": "2022-05-24T11:16:05",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70316,
+   "type": "message",
+   "date": "2022-05-24T11:18:35",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70317,
+   "type": "message",
+   "date": "2022-05-24T11:20:10",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70318,
+   "type": "message",
+   "date": "2022-05-24T11:20:21",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70319,
+   "type": "message",
+   "date": "2022-05-24T11:20:34",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70320,
+   "type": "message",
+   "date": "2022-05-24T11:20:39",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70334,
+   "type": "message",
+   "date": "2022-05-24T11:36:15",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://archive.org/details/whoshallsurviven00jlmo/page/30/mode/2up"
+    }
+   ]
+  },
+  {
+   "id": 70335,
+   "type": "message",
+   "date": "2022-05-24T11:36:39",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 471,
+   "height": 499,
+   "text": ""
+  },
+  {
+   "id": 70339,
+   "type": "message",
+   "date": "2022-05-24T11:49:27",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 20,
+   "width": 464,
+   "height": 848,
+   "text": ""
+  },
+  {
+   "id": 70340,
+   "type": "message",
+   "date": "2022-05-24T11:55:46",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "audio_file",
+   "mime_type": "audio/m4a",
+   "duration_seconds": 41,
+   "text": ""
+  },
+  {
+   "id": 70591,
+   "type": "message",
+   "date": "2022-05-25T02:01:10",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": [
+    {
+     "type": "code",
+     "text": "PENSACIONES DISPERSAS EN WALKSCAPES:"
+    },
+    {
+     "type": "code",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "@ALREDEDOR DEL PARQUE TEC: AGRONOMOS, ARQUITECTOS, BACHILLERES, RIOPANUCO, ARQUITECTOS, INGENIEROS, TECNICOS, FILOSOFOS, GARZA SADA"
+    }
+   ]
+  },
+  {
+   "id": 70592,
+   "type": "message",
+   "date": "2022-05-25T02:01:59",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "LUNES 23, 12:30: Vivo en unos departamentos nuevos. Cuando estudiaba aquí me tocó ver un baldío convertirse en esto. Vivo en un tercer piso, si viajara tres años atrás en el tiempo estaría flotando. Esto no estaba aquí."
+  },
+  {
+   "id": 70593,
+   "type": "message",
+   "date": "2022-05-25T02:02:20",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Salgo de mi casa sobre av. Agrónomos y lo primero que veo son los botes de basura del parque: están hasta la madre. Creo que es una observación constante, los botes de basura públicos siempre están a tope y no solo eso, también tienen basura alrededor. Mucho que pensar acerca de la participación de los repositorios en la vía pública. “Parece que no cabemos”"
+  },
+  {
+   "id": 70594,
+   "type": "message",
+   "date": "2022-05-25T02:02:35",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 949,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70595,
+   "type": "message",
+   "date": "2022-05-25T02:03:15",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Es lunes, hay lluvia y activa olores. Es un buen día salir porque TODO está activado."
+  },
+  {
+   "id": 70596,
+   "type": "message",
+   "date": "2022-05-25T02:03:37",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Esquina Agrónomos X Arquitectos: Hay un señalamiento antiguo de calles. Al parecer eran rectángulos amarillos de cemento y estaban pegados al pavimento. Es el único que he visto de su tipo. Falta investigar pero debe tener al menos 40 años."
+  },
+  {
+   "id": 70597,
+   "type": "message",
+   "date": "2022-05-25T02:04:21",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Esquina Agrónomos X Arquitectos: Aquí había una casa o algo. (En gugul maps todavía está) Parece un baldío, pero entre la mata hay ruinas, ruinas y basura. Muchas cosas que abordar.                                         \n\nPrimero: parece un repositorio comunitario, hay basura por todos lados, las fechas de caducidad y naturaleza de los empaques es diversa y neta hace pensar en cuanta participación peatonal se ha necesitado para llenar este lugar de cosas a lo largo del tiempo. Escombro y basura, estos lugares son como un vórtice donde parece que se pierde la información, pero solo basta un poco de atención para darse cuenta de justo lo contrario, acumulación.           \n\nSegundo: Un terreno baldío como estos no se queda árido, hay plantas que le brotan de las entrañas. Me hace pensar en toda la posible dimensión botánica del proyecto. ¿Que pedo con lo endémico? En los baldíos hay vegetación endémica… desde luego nadie se preocupa por plantarla, solo es hierba y arboles que brotan del suelo y sacan lo mejor de las variables ecosistémicas. Son un mega recurso histórico, estudiarlas nos puede dar mucho insight respecto a la historia natural de la zona. ¿Que puedo distinguir? Tamarindos, hay 1 chingo de tamarindos y apenas me doy cuenta. Son bastiones, we can’t fool them.                               \n\nTercero: Ruinas = construcción -> destrucción -> abandono. Aquí había una casa. Hay restos de piso cerámico sobre lo que sería la banqueta y ya entrando al predio se notan algunas paredes caídas. Parecen las ruinas de una antiguisima civilización, todo esta cubierto de mata. Mi primer pensamiento es tal vez un proceso de abandono en vía de gentrificación, pero es un juicio ciego y rabioso. El abandono de propiedades es algo que me causa una curiosidad inmensa, que pedo ¿porque abandonar? En este caso, ¿porque destruir y luego abandonar?                                    \nCuarto: Estoy parado sobre una piedra en medio de dos arboles, entrado en el baldío. Está lloviendo y estoy usando zapatos, tenía un mes sin usar siquiera calcetines. No podría estar explorando esto en chanclas, pienso entonces al menos en dos peligros posibles: 1 la naturaleza defendiéndose (espinas, animales ponzoñosos) 2 los materiales que hoy son ruinas en estado de abandono adquieren formas peligrosas, filosas (varillas sueltas, vidrios por ejemplo)"
+  },
+  {
+   "id": 70598,
+   "type": "message",
+   "date": "2022-05-25T02:05:16",
+   "edited": "2022-05-25T10:15:55",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70599,
+   "type": "message",
+   "date": "2022-05-25T02:05:41",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Hay un señor que veo seguido en el parque (años) y apenas me doy cuenta, es un señor de pelo blanco y brazos largos chaparrito. Lo saco por que todo su atuendo esta siempre lleno de manchas blancas. De hecho su bigote es blanquísimo. Lo veo dando vueltas y aveces con una diablito. Estoy seguro de que trabaja en mantenimiento. Lo sigo por la calle bachilleres y no se como pero se me pierde."
+  },
+  {
+   "id": 70600,
+   "type": "message",
+   "date": "2022-05-25T02:06:02",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Sobre la calle Bachilleres entro a un predio que actualmente es un estacionamiento. Es grande, nunca lo habia visto. Al fondo: un chingo de tamarindos, al menos 6. Nadie agarra tamarindos, se quedan podridos en el suelo. Hay un hormiguero grandisimo de rojas. WHAT IS BENEATH US? Pienso en estos inframundos que hay en la zona, debe haber cientos de ellas y por muy tonto que suene me sorprende lo ajenas que son a nosotros , si acaso les interesan nuestros recursos y que no las molestemos, pero no más… aun asi mi presencia aqui es ineludible, i am no ghost, las hormigas se me trepan a las patas. El predio está parcialmente cubierto de cemento, el contraste del cemento y la tierra hace parecer la zona cementada como una dermis anestesiada ¿Así está la tierra de ignorada, insensibilizada? ¿Que hay debajo del cemento? Siempre es un misterio."
+  },
+  {
+   "id": 70601,
+   "type": "message",
+   "date": "2022-05-25T02:06:29",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1037,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70602,
+   "type": "message",
+   "date": "2022-05-25T02:06:45",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "A las paredes les cuesta trabajo mentir, con el paso del tiempo se van desgajando y se revelan las capitas de pintura y remaches que guardan. A Andrea y Jorge les va a gustar mucho estos paseos, el decollage esta escondido pero una vez visto es inignorable."
+  },
+  {
+   "id": 70603,
+   "type": "message",
+   "date": "2022-05-25T02:07:04",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Sigo sobre la calle Bachilleres, los botes de basura son todos azules, tambos azules. Waw. Lo único que los diferencia es la indicación en marcador permanente de la calle y el número haciéndole cinturón al tambo. Las tipografías son manuales y variadas."
+  },
+  {
+   "id": 70604,
+   "type": "message",
+   "date": "2022-05-25T02:07:09",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1170,
+   "height": 1263,
+   "text": ""
+  },
+  {
+   "id": 70605,
+   "type": "message",
+   "date": "2022-05-25T02:08:23",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Hay toda una cosa respecto a los estilos arquitectónicos aquí. Si, muy chingón quien sabe identificar un barroco del rococo, pero que pedo con esto.. México siempre posmo: la estructura por lo general en la zona es un monstruo combinado de muchas cosas. Y está bien, no hay ningún canon que obedecer, pero si me gustaría entender mejor las influencias inconscientes que se evidencian en sus formas y así entender mejor como habitarlas tiene consecuencias haptico-epistemológicas. Esto se me viene a la mente por este estilo nuevo que viene agarrando vuelito en la zona: un look medio industrial de concreto pulido y fachadas de ladrillo con barandales negros. Está curioso, esto del ladrillo en fachadas parece querer ser parte de un look brooklyn global."
+  },
+  {
+   "id": 70606,
+   "type": "message",
+   "date": "2022-05-25T02:08:56",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Rio Panuco: Why them cracks in the pavement? Wasnt it supposed to be eternal?… How bout them hierbas en las grietas? Are they some kind of proof de resiliencia endemica?"
+  },
+  {
+   "id": 70607,
+   "type": "message",
+   "date": "2022-05-25T02:09:18",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70608,
+   "type": "message",
+   "date": "2022-05-25T02:09:39",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Calle Arquitectos: Están demoliendo una casa. Las escaleras están partidas a la mitad. Ver una demolición en tiempo real es una experiencia onírica, violenta y de un placer inmenso. Destruir es muy parecido a construir y que rápido se destruyen las cosas. Veo escombros, veo paredes encueradas, varillas descarriladas. Las columnas se hacen flaquitas flaquitas hasta que los techos se caen como costales. En los escombros se distinguen todavía acabados y azulejos. Un señor des-hace todo esto con retroexcavadoras manitas de chango. Chance este predio también lo hagan departamentos."
+  },
+  {
+   "id": 70609,
+   "type": "message",
+   "date": "2022-05-25T02:10:15",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70610,
+   "type": "message",
+   "date": "2022-05-25T02:10:41",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Calle Arquitectos: la calle arquitectos realmente le hace justicia a su nombre. No es la calle mas linda pero si tiene al menos geometrías mas valientes. ¿Los nombres de las calles ejercen una agencia inconsciente en quienes diseñan para estos espacios? ¿Los nombres ejercen una agencia inconsciente en quienes las transitan, en quienes las habitan?"
+  },
+  {
+   "id": 70611,
+   "type": "message",
+   "date": "2022-05-25T02:10:57",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Un señor pasa comprando fierro viejo en un carrito elotero, tiene al menos tres ventiladores incompletos."
+  },
+  {
+   "id": 70612,
+   "type": "message",
+   "date": "2022-05-25T02:11:09",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "La calle Ingenieros si tiene diversidad en tambos, hay varios colores."
+  },
+  {
+   "id": 70613,
+   "type": "message",
+   "date": "2022-05-25T02:11:44",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "OJO con los sistemas pasivoagresivos de defensa habitacional. Rejas, bardas y espinas urbanas. Hay picos que parecen mageyes, hay vidrios filosos de cocas rotas. Estos sistemas de defensa dicen mucho de sus dueños y como perciben el entorno como posible  amenaza. Parece que dicen “andale cabron, llegale, estamos listos” hay algo en sus rejas y bardas que se SIENTE. Ver espinas es algo muy sensorial, talvez como especie estamos codificados para prestarle mucha atención a los filos que nos pueden lastimar. Pd: estaría chido hablar con rateros."
+  },
+  {
+   "id": 70614,
+   "type": "message",
+   "date": "2022-05-25T02:11:56",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Calle Tecnicos: how bout them andamios? Esqueletos. Watching them albañiles martilleando really gives you a glimpse into reality bending."
+  },
+  {
+   "id": 70615,
+   "type": "message",
+   "date": "2022-05-25T02:12:13",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Técnicos: Calle de alarmas ladridos alarmas. Las casas con perros seguro son de locales."
+  },
+  {
+   "id": 70616,
+   "type": "message",
+   "date": "2022-05-25T02:12:31",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "How bout them pisadas fosiles discretely placed? Juego con pensar que estas huellas en el pavimento solo pueden ser de quien estuvo en contacto con el cemento fresco: los albañiles."
+  },
+  {
+   "id": 70617,
+   "type": "message",
+   "date": "2022-05-25T02:12:40",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70618,
+   "type": "message",
+   "date": "2022-05-25T02:13:18",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "¿Todo agujero tiene que ser llenado? Caminando noto pequeños agujeros que son llenados peatonalmente por basura. Sea en el pavimento, en un medidor de agua o en la base de un poste de luz. No importa donde, si hay un agujero tiene basura. Parecen pequeños proyectos colaborativos de chingaquedito."
+  },
+  {
+   "id": 70619,
+   "type": "message",
+   "date": "2022-05-25T02:16:24",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 974,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70620,
+   "type": "message",
+   "date": "2022-05-25T02:16:50",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Los arboles de tamarindo del parque tek tienen pequeñas ramas creciendo entre ramas. Verlo de cerquita si es muy impactante, parece (si) un arbol mutante."
+  },
+  {
+   "id": 70621,
+   "type": "message",
+   "date": "2022-05-25T02:17:02",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70622,
+   "type": "message",
+   "date": "2022-05-25T02:17:28",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "¿Que pasó aqui en los setentas? He visto muchas casas setenteras en este paseo, parece ser una epoca inmobiliaramente importante para la zona."
+  },
+  {
+   "id": 70623,
+   "type": "message",
+   "date": "2022-05-25T02:17:59",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "La tierra está bien seca y suelta. Aunque esté lloviendo se siente una fragilidad en el parque. Mad max no está lejos, no olvido que estamos en sequía."
+  },
+  {
+   "id": 70624,
+   "type": "message",
+   "date": "2022-05-25T02:18:15",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Entre Filosofos y Garza Sada me encuentro 3 vagabundos, dos de ellos ya conocidos (Luisito) y observo como piden dinero. Los estudiantes se meten a una interacción performatica orientada a fachada de empatia. Observo como gesticulan en automatico, “no, gracias” “hiiijole”. Puedes conocer mucho de una persona viendo como lidian con estas situaciones, con que tacto responden o que distancia pintan. ¿Que proyectan en el vagabundo? ¿Que perciben en ese momento de sí mismos?"
+  },
+  {
+   "id": 70625,
+   "type": "message",
+   "date": "2022-05-25T02:18:29",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Termino en el camellón de Garza Sada, oigo un saxofonista, me dice su esposa que vienen de Chiapas. El bato no toca muy chido, pero estos dias he soñado con saxofones y agradezco que no suenen solo llantas y claxons en la calle."
+  },
+  {
+   "id": 70627,
+   "type": "message",
+   "date": "2022-05-25T14:20:01",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 590,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70628,
+   "type": "message",
+   "date": "2022-05-25T14:45:29",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70629,
+   "type": "message",
+   "date": "2022-05-25T14:45:34",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70630,
+   "type": "message",
+   "date": "2022-05-25T14:45:41",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70641,
+   "type": "message",
+   "date": "2022-05-25T18:03:21",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70642,
+   "type": "message",
+   "date": "2022-05-25T18:03:26",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70643,
+   "type": "message",
+   "date": "2022-05-25T18:03:31",
+   "edited": "2022-05-25T18:46:43",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70644,
+   "type": "message",
+   "date": "2022-05-25T19:12:46",
+   "edited": "2022-05-25T19:30:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Se desempolvará la antigua nagra para registro sonoro de los espacios contemporáneos. Así podremos vincular lo antiguo y lo nuevo con procesos creativos en un singular acto de arqueología mediática."
+  },
+  {
+   "id": 70645,
+   "type": "message",
+   "date": "2022-05-25T19:13:00",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70646,
+   "type": "message",
+   "date": "2022-05-25T19:13:47",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Me faltó: a su vez se presentarán los sonidos en loops analógicos reproducidos en la misma nagra"
+  },
+  {
+   "id": 70647,
+   "type": "message",
+   "date": "2022-05-25T20:21:17",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": "Ruta 25.05.22"
+  },
+  {
+   "id": 70648,
+   "type": "message",
+   "date": "2022-05-25T20:46:00",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": "Como se mide el tiempo en un espacio?  Que hace un sueño?"
+  },
+  {
+   "id": 70649,
+   "type": "message",
+   "date": "2022-05-25T20:46:00",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70650,
+   "type": "message",
+   "date": "2022-05-25T20:46:00",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70651,
+   "type": "message",
+   "date": "2022-05-25T20:46:00",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70652,
+   "type": "message",
+   "date": "2022-05-25T20:46:00",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70653,
+   "type": "message",
+   "date": "2022-05-25T20:46:01",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 10,
+   "width": 464,
+   "height": 848,
+   "text": ""
+  },
+  {
+   "id": 70654,
+   "type": "message",
+   "date": "2022-05-25T20:46:01",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 8,
+   "width": 464,
+   "height": 848,
+   "text": ""
+  },
+  {
+   "id": 70655,
+   "type": "message",
+   "date": "2022-05-26T12:22:28",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70657,
+   "type": "message",
+   "date": "2022-05-26T12:37:28",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://bere.al/pabloverat"
+    }
+   ]
+  },
+  {
+   "id": 70658,
+   "type": "message",
+   "date": "2022-05-26T12:39:13",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "reply_to_message_id": 70655,
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.facebook.com/GerardoLujanR"
+    }
+   ]
+  },
+  {
+   "id": 70666,
+   "type": "message",
+   "date": "2022-05-26T13:00:50",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.facebook.com/HIstoricasFotosTec/"
+    }
+   ]
+  },
+  {
+   "id": 70700,
+   "type": "message",
+   "date": "2022-05-27T12:05:37",
+   "edited": "2022-05-28T15:33:45",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70701,
+   "type": "message",
+   "date": "2022-05-27T12:05:52",
+   "edited": "2022-05-28T15:33:34",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70702,
+   "type": "message",
+   "date": "2022-05-27T12:19:07",
+   "edited": "2022-05-28T15:33:37",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70717,
+   "type": "message",
+   "date": "2022-05-28T14:53:05",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 256,
+   "text": ""
+  },
+  {
+   "id": 70718,
+   "type": "message",
+   "date": "2022-05-28T15:08:37",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": [
+    "Ruta 5 ",
+    {
+     "type": "code",
+     "text": "Estanzuela"
+    },
+    " sobre EGS"
+   ]
+  },
+  {
+   "id": 70795,
+   "type": "message",
+   "date": "2022-05-29T13:28:02",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70796,
+   "type": "message",
+   "date": "2022-05-29T13:28:08",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70797,
+   "type": "message",
+   "date": "2022-05-29T13:28:26",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70798,
+   "type": "message",
+   "date": "2022-05-29T13:28:26",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70799,
+   "type": "message",
+   "date": "2022-05-29T13:28:26",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 70897,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "edited": "2022-05-30T21:13:06",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70898,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70899,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70900,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70901,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70902,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70903,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70904,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70905,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70906,
+   "type": "message",
+   "date": "2022-05-30T02:01:24",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70909,
+   "type": "message",
+   "date": "2022-05-30T10:41:21",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 70910,
+   "type": "message",
+   "date": "2022-05-30T10:42:53",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Pagina 88: transformación del antiguo camino de santiago en la av. EGS"
+  },
+  {
+   "id": 70911,
+   "type": "message",
+   "date": "2022-05-30T10:44:28",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "text": "Pagina 126: el campus del tec como detonador urbano e inmobiliario"
+  },
+  {
+   "id": 70912,
+   "type": "message",
+   "date": "2022-05-30T13:27:15",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "text": [
+    "Mapoteca:\n\n",
+    {
+     "type": "link",
+     "text": "http://w2.siap.sagarpa.gob.mx/mapoteca/"
+    }
+   ]
+  },
+  {
+   "id": 70913,
+   "type": "message",
+   "date": "2022-05-30T13:28:44",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "text": [
+    "ICA (fotos):\n\n",
+    {
+     "type": "link",
+     "text": "https://www.ica.com.mx"
+    }
+   ]
+  },
+  {
+   "id": 70914,
+   "type": "message",
+   "date": "2022-05-30T13:29:01",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70915,
+   "type": "message",
+   "date": "2022-05-30T13:30:56",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "text": [
+    "Nuevo León en el siglo xx. La industrialización del segundo auge industrial a la crisis de 1982.\n\n",
+    {
+     "type": "link",
+     "text": "https://www.fondoeditorialnl.gob.mx/pdfs/industrializaciontomo2.pdf"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 70918,
+   "type": "message",
+   "date": "2022-05-30T13:50:32",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": "Maestro del tec de arquitectura, estudió la zona"
+  },
+  {
+   "id": 70919,
+   "type": "message",
+   "date": "2022-05-30T16:41:44",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 70920,
+   "type": "message",
+   "date": "2022-05-30T16:41:53",
+   "from": "Pablo Vera",
+   "from_id": "user1450330802",
+   "text": "\"no al distrito tec\""
+  },
+  {
+   "id": 71138,
+   "type": "message",
+   "date": "2022-06-02T12:28:12",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Algunas piezas que surgieron con relación a las ideas del proyecto. De relacionan por su semejanza estética, conceptual o inclusive física (cámara 360, registro experimental, analogías entre registro y/o exhibición, etc.):"
+  },
+  {
+   "id": 71139,
+   "type": "message",
+   "date": "2022-06-02T12:29:28",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "16mm brazilian jungle"
+  },
+  {
+   "id": 71140,
+   "type": "message",
+   "date": "2022-06-02T12:29:50",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.google.com.mx/search?q=16mm+brazilian+jungle&ie=UTF-8&oe=UTF-8&hl=es-mx&client=safari#imgrc=o_zl-vPm6jRe1M"
+    }
+   ]
+  },
+  {
+   "id": 71141,
+   "type": "message",
+   "date": "2022-06-02T12:31:15",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "(El mecanismo de la cámara avanza a la misma por el cable del que cuelga. La relación registro de película en metros de cinta es igual al avance de la cámara en el cable... 1:1)"
+  },
+  {
+   "id": 71142,
+   "type": "message",
+   "date": "2022-06-02T12:32:11",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Película \"La región central\" de Michael Snow, una de las primeras referencias de las posibilidades 360 actuales:"
+  },
+  {
+   "id": 71143,
+   "type": "message",
+   "date": "2022-06-02T12:33:17",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://m.youtube.com/watch?v=uYr_SvIKKuI"
+    }
+   ]
+  },
+  {
+   "id": 71144,
+   "type": "message",
+   "date": "2022-06-02T12:33:50",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 739,
+   "height": 415,
+   "text": ""
+  },
+  {
+   "id": 71145,
+   "type": "message",
+   "date": "2022-06-02T12:34:36",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "El National Film Board hizo un juego-documental sobre el bosque canadiense:"
+  },
+  {
+   "id": 71146,
+   "type": "message",
+   "date": "2022-06-02T12:35:08",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": [
+    {
+     "type": "link",
+     "text": "http://a-way-to-go.com/"
+    }
+   ]
+  },
+  {
+   "id": 71147,
+   "type": "message",
+   "date": "2022-06-02T12:35:20",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Creo que no se puede jugar en cel"
+  },
+  {
+   "id": 71275,
+   "type": "message",
+   "date": "2022-06-03T23:10:32",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 591,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71366,
+   "type": "message",
+   "date": "2022-06-04T17:38:39",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71367,
+   "type": "message",
+   "date": "2022-06-04T17:38:44",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71448,
+   "type": "message",
+   "date": "2022-06-06T04:12:04",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71550,
+   "type": "message",
+   "date": "2022-06-06T16:40:54",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Posible entregable:"
+  },
+  {
+   "id": 71551,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "edited": "2022-06-07T06:31:43",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71552,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71553,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71554,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71555,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 960,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71556,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71557,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71558,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71559,
+   "type": "message",
+   "date": "2022-06-06T16:41:57",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71560,
+   "type": "message",
+   "date": "2022-06-06T16:42:15",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Es un libro-postal sonoro"
+  },
+  {
+   "id": 71561,
+   "type": "message",
+   "date": "2022-06-06T16:44:37",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "text": "Posible entregable:\nDibujos de las derivas sin mapa de fondo:"
+  },
+  {
+   "id": 71562,
+   "type": "message",
+   "date": "2022-06-06T16:45:09",
+   "edited": "2022-06-07T06:31:50",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 960,
+   "text": ""
+  },
+  {
+   "id": 71563,
+   "type": "message",
+   "date": "2022-06-06T19:04:02",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 640,
+   "text": ""
+  },
+  {
+   "id": 71572,
+   "type": "message",
+   "date": "2022-06-07T06:33:16",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 38,
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 71573,
+   "type": "message",
+   "date": "2022-06-07T06:36:47",
+   "edited": "2022-06-07T19:10:41",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1170,
+   "height": 1208,
+   "text": ""
+  },
+  {
+   "id": 71574,
+   "type": "message",
+   "date": "2022-06-07T06:36:47",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1170,
+   "height": 1136,
+   "text": ""
+  },
+  {
+   "id": 71575,
+   "type": "message",
+   "date": "2022-06-07T06:36:47",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1170,
+   "height": 1239,
+   "text": ""
+  },
+  {
+   "id": 71576,
+   "type": "message",
+   "date": "2022-06-07T06:36:47",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1112,
+   "height": 1098,
+   "text": ""
+  },
+  {
+   "id": 71577,
+   "type": "message",
+   "date": "2022-06-07T06:36:47",
+   "from": "flac0",
+   "from_id": "user5272322290",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1170,
+   "height": 1195,
+   "text": ""
+  },
+  {
+   "id": 71686,
+   "type": "message",
+   "date": "2022-06-07T19:09:37",
+   "edited": "2022-06-07T19:10:37",
+   "from": "Andrea Viteri",
+   "from_id": "user5373918915",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 84,
+   "width": 464,
+   "height": 848,
+   "text": ""
+  },
+  {
+   "id": 71722,
+   "type": "message",
+   "date": "2022-06-08T21:36:18",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1000,
+   "height": 549,
+   "text": ""
+  },
+  {
+   "id": 71738,
+   "type": "message",
+   "date": "2022-06-09T13:26:45",
+   "from": "Jorge Lorenzo",
+   "from_id": "user1901472198",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 706,
+   "text": ""
+  },
+  {
+   "id": 71739,
+   "type": "message",
+   "date": "2022-06-09T13:40:26",
+   "from": "Alan Ixba",
+   "from_id": "user1211595718",
+   "text": "Narrativas alternas al proceso urbano de evangelización"
+  }
+ ]
+}
